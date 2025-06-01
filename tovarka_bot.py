@@ -9,7 +9,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 nest_asyncio.apply()
 
 # Настройки
-TOKEN = "7937031754:AAEc7qfLrgpw8TesBPl9I5nMAb6WDycKcK8"
+TOKEN = "7937031754:AAESUJ3pq0b7BAsjo6tO2MnFjCkiN48iE14"
 ORDERS_CHAT_ID = "-1002591802067"
 ADMIN_CHAT_ID = "ВАШ_TELEGRAM_ID"  # Укажите свой ID (можно узнать у @userinfobot)
 
